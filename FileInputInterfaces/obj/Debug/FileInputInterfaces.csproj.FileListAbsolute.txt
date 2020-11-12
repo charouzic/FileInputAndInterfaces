@@ -1,0 +1,12 @@
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/bin/Debug/FileInputInterfaces.exe
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/bin/Debug/FileInputInterfaces.pdb
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/obj/Debug/FileInputInterfaces.csprojAssemblyReference.cache
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/obj/Debug/FileInputInterfaces.csproj.CoreCompileInputs.cache
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/obj/Debug/FileInputInterfaces.exe
+/Users/abidh/Projects/FileInputInterfaces/FileInputInterfaces/obj/Debug/FileInputInterfaces.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/bin/Debug/FileInputInterfaces.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/bin/Debug/FileInputInterfaces.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/obj/Debug/FileInputInterfaces.csprojAssemblyReference.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/obj/Debug/FileInputInterfaces.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/obj/Debug/FileInputInterfaces.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/exercises/exercise9/FileInputInterfaces/obj/Debug/FileInputInterfaces.pdb
